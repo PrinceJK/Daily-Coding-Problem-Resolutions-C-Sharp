@@ -1,0 +1,7 @@
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\bin\Debug\Daily Coding Problem 1.exe.config
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\bin\Debug\Daily Coding Problem 1.exe
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\bin\Debug\Daily Coding Problem 1.pdb
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\obj\Debug\Daily Coding Problem 1.csprojAssemblyReference.cache
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\obj\Debug\Daily Coding Problem 1.csproj.CoreCompileInputs.cache
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\obj\Debug\Daily Coding Problem 1.exe
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #1 - Google\Daily Coding Problem 1\obj\Debug\Daily Coding Problem 1.pdb

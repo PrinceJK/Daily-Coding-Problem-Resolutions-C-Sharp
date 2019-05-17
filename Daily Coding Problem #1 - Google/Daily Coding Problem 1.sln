@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daily Coding Problem 1", "Daily Coding Problem 1\Daily Coding Problem 1.csproj", "{3DCC978C-0B92-4DAE-A01C-45EBBE76B233}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DCC978C-0B92-4DAE-A01C-45EBBE76B233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DCC978C-0B92-4DAE-A01C-45EBBE76B233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DCC978C-0B92-4DAE-A01C-45EBBE76B233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DCC978C-0B92-4DAE-A01C-45EBBE76B233}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5A9DB46-2A89-4040-B321-FA7070DB2AAE}
+	EndGlobalSection
+EndGlobal
