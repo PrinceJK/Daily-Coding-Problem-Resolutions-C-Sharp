@@ -1,0 +1,7 @@
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\bin\Debug\Uber Question Resolution.exe.config
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\bin\Debug\Uber Question Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\bin\Debug\Uber Question Resolution.pdb
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\obj\Debug\Uber Question Resolution.csprojAssemblyReference.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\obj\Debug\Uber Question Resolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\obj\Debug\Uber Question Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #2 - Uber\Uber Question Resolution\obj\Debug\Uber Question Resolution.pdb
