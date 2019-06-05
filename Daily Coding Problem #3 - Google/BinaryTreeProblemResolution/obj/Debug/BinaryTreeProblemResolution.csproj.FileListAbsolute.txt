@@ -1,0 +1,7 @@
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\bin\Debug\BinaryTreeProblemResolution.exe.config
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\bin\Debug\BinaryTreeProblemResolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\bin\Debug\BinaryTreeProblemResolution.pdb
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\obj\Debug\BinaryTreeProblemResolution.csprojAssemblyReference.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\obj\Debug\BinaryTreeProblemResolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\obj\Debug\BinaryTreeProblemResolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #3 - Google\BinaryTreeProblemResolution\obj\Debug\BinaryTreeProblemResolution.pdb
