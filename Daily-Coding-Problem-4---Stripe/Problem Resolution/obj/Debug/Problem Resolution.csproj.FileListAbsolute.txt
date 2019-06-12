@@ -1,0 +1,7 @@
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\bin\Debug\Problem Resolution.exe.config
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\bin\Debug\Problem Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\bin\Debug\Problem Resolution.pdb
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\obj\Debug\Problem Resolution.csprojAssemblyReference.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\obj\Debug\Problem Resolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\obj\Debug\Problem Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #4 - Stripe\Problem Resolution\obj\Debug\Problem Resolution.pdb
