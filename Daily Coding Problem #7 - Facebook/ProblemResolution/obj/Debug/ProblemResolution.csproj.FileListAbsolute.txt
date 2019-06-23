@@ -1,0 +1,7 @@
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\obj\Debug\ProblemResolution.csprojAssemblyReference.cache
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\obj\Debug\ProblemResolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\bin\Debug\ProblemResolution.exe.config
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\bin\Debug\ProblemResolution.exe
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\bin\Debug\ProblemResolution.pdb
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\obj\Debug\ProblemResolution.exe
+D:\OneDrive\DOCUMENTOS\WORK AND STUDY\Personal Projects\Working\Daily-Coding-Problem-Resolutions\Daily Coding Problem #7 - Facebook ( unfinished)\ProblemResolution\obj\Debug\ProblemResolution.pdb
