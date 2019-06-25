@@ -1,0 +1,7 @@
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\obj\Debug\Resolution.csprojAssemblyReference.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\obj\Debug\Resolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\bin\Debug\Resolution.exe.config
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\bin\Debug\Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\bin\Debug\Resolution.pdb
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\obj\Debug\Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #8 - Google\Resolution\obj\Debug\Resolution.pdb
