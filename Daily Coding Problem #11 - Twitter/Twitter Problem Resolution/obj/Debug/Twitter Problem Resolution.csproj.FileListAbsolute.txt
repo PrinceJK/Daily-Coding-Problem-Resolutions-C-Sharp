@@ -1,0 +1,7 @@
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\bin\Debug\Twitter Problem Resolution.exe.config
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\bin\Debug\Twitter Problem Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\bin\Debug\Twitter Problem Resolution.pdb
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\obj\Debug\Twitter Problem Resolution.csprojAssemblyReference.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\obj\Debug\Twitter Problem Resolution.csproj.CoreCompileInputs.cache
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\obj\Debug\Twitter Problem Resolution.exe
+D:\OneDrive\PROJETOS\Projects\Working\Daily Coding Problem Projects\Daily Coding Problem #11 - Twitter\Twitter Problem Resolution\obj\Debug\Twitter Problem Resolution.pdb
